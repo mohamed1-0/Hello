@@ -1,0 +1,18 @@
+- File navigation commands:
+	- pwd
+	- cd
+	- ls
+	- touch
+- Git commands: 
+For git commands: git
+	- git clone
+	- git log
+	- git status
+	- git add 
+	- git commit
+	- git pull
+	- git push
+	- git remote add <name> <url> 
+		- git pull <name> <branch>
+		- git push <name> <branch>
+-----------------------------------------------
